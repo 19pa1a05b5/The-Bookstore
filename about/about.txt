@@ -1,0 +1,3 @@
+<p>Welcome to The BookStore, an online bookstore designed to make finding and purchasing books easy and convenient!</p>
+<p>This project is developed by the students of <strong>University of Central Missouri (UCM)</strong> as part of the <strong>Client-Side Programming</strong> course under the guidance of <strong>Dr. Paravastu</strong>.</p>
+<p>Our aim is to create a user-friendly interface that allows you to explore a variety of books, search for your favorites, and purchase books. This platform reflects our learning and efforts in implementing client-side technologies like HTML, CSS, JavaScript, jQuery, AJAX, JSON, XML.</p>

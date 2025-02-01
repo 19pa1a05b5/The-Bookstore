@@ -1,0 +1,113 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #eaf2f2;
+    color: #333;
+}
+
+main{
+    margin-bottom: 5em;
+}
+
+/* NAVIGATION BAR*/
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000000de;
+    padding: 10px 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.logo-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.nav-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.nav-btn {
+    padding: 8px 15px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-btn:hover {
+    background-color: #ff8400;
+    color: #fff;
+}
+
+.cart-btn{
+    margin: 0px;
+    padding: 3px 15px;
+}
+
+.material-icons {
+    font-size: 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+/*-------------------------ABOUT SECTION--------------------------*/
+
+.page-heading{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    color: rgb(255 247 247);
+    font-size: 24px;
+    margin: 0px;
+
+}
+
+.about-para {
+    line-height: 1.6; 
+    background-color: #f9f9f9; 
+    padding: 20px; 
+    margin: 20px auto; 
+    border-radius: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    max-width: 850px;
+    text-align: justify; 
+}
+
+/*-------------------------------------------------------------------------------*/
+
+.footer {
+    text-align: center;
+    padding: 1px 0;
+    background-color: #fc9d37f2;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

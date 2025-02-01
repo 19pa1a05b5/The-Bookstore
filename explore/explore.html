@@ -1,0 +1,65 @@
+<!-- Created by 
+ Koushik Varma Mudunuri - 700757893
+ Pavani Bathani - 700759866-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The BookStore</title>
+
+    <link rel="icon" href="../Images/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="explore.js?"+new Date().getTime();></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <img src="../Images/logo.png" alt="Book Icon" class="logo-icon">
+                The BookStore
+            </div>
+            <div class="nav-buttons">
+                <a href="../home/home.html"><button class="nav-btn">Home</button></a>
+                <a href="../explore/explore.html"><button class="nav-btn">Explore</button></a>
+                <a href="../about/about.html"><button class="nav-btn">About</button></a>
+                <a href="../contact/contact.html"><button class="nav-btn">Contact</button></a>
+                <button class="nav-btn cart-btn" id="cart-btn"><span class="material-icons cart-icon">
+                    shopping_cart
+                    </span></button>
+            </div>
+        </nav>
+    </header>
+    <main id="explore-main">
+        <section>
+            <h1 class="explore-heading">Explore our Collection</h1>
+        </section>
+        <section class="search-filter">
+            <div class="search-bar">
+                <input type="text" placeholder="Search for books..." id="searchText">
+                <button class="search-btn" id="searchBtn"><span class="material-icons search-icon">
+                    search
+                    </span></button>
+            </div>
+            <div class="select-container">
+                <select id="filter">
+                    <option value="all">All</option>
+                    <option value="fiction">Fiction</option>
+                    <option value="non-fiction">Non-Fiction</option>
+                    <option value="children's books">Children's Books</option>
+                    <option value="educational">Educational</option>
+                </select>
+            </div>
+        </section>
+        <section class="book-container">
+            <div id="booksShow" class="books-show"></div>
+        </section>
+    </main>
+    <footer class="footer">
+        <p>&copy; 2024 The BookStore | All Rights Reserved</p>
+    </footer>
+</body>
+</html>

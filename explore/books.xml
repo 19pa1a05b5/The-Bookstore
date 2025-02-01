@@ -1,0 +1,146 @@
+<books>
+  <book>
+    <title>The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <genre>Fiction</genre>
+    <price>10.99</price>
+    <description>A novel set in the Jazz Age on Long Island, The Great Gatsby explores themes of decadence, love, and the American Dream through the eyes of narrator Nick Carraway.</description>
+    <image>Books/image1.jpg</image>
+  </book>
+  <book>
+    <title>To Kill a Mockingbird</title>
+    <author>Harper Lee</author>
+    <genre>Fiction</genre>
+    <price>7.99</price>
+    <description>This Pulitzer Prize-winning novel focuses on racial injustice in the Deep South, seen through the eyes of Scout Finch, the young daughter of lawyer Atticus Finch.</description>
+    <image>Books/image2.jpg</image>
+  </book>
+  <book>
+    <title>1984</title>
+    <author>George Orwell</author>
+    <genre>Fiction</genre>
+    <price>8.99</price>
+    <description>Set in a dystopian future, Orwell's novel follows Winston Smith, a man who rebels against the oppressive regime of Big Brother and the Party, exploring totalitarianism and surveillance.</description>
+    <image>Books/image3.jpg</image>
+  </book>
+  <book>
+    <title>The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <genre>Fiction</genre>
+    <price>9.99</price>
+    <description>Bilbo Baggins, a hobbit, embarks on an adventurous quest with dwarves to reclaim a treasure guarded by a dragon, encountering various dangers along the way.</description>
+    <image>Books/image4.jpg</image>
+  </book>
+  <book>
+    <title>The Fellowship of the Ring</title>
+    <author>J.R.R. Tolkien</author>
+    <genre>Fiction</genre>
+    <price>12.99</price>
+    <description>The first book in 'The Lord of the Rings' trilogy, it follows Frodo Baggins and his companions as they set out to destroy the One Ring and defeat the dark lord Sauron.</description>
+    <image>Books/image5.jpg</image>
+  </book>
+  <book>
+    <title>Murder on the Orient Express</title>
+    <author>Agatha Christie</author>
+    <genre>Fiction</genre>
+    <price>11.99</price>
+    <description>Detective Hercule Poirot solves a murder case aboard the luxurious train, the Orient Express, where all passengers are suspects in a complex and thrilling mystery.</description>
+    <image>Books/image6.jpg</image>
+  </book>
+  <book>
+    <title>Sapiens: A Brief History of Humankind</title>
+    <author>Yuval Noah Harari</author>
+    <genre>Non-Fiction</genre>
+    <price>14.99</price>
+    <description>Harari explores the history of humanity, tracing the development of Homo sapiens from early hunter-gatherers to the modern technological age.</description>
+    <image>Books/image7.jpg</image>
+  </book>
+  <book>
+    <title>Homo Deus: A Brief History of Tomorrow</title>
+    <author>Yuval Noah Harari</author>
+    <genre>Non-Fiction</genre>
+    <price>16.99</price>
+    <description>Harari speculates about the future of humanity, exploring topics like artificial intelligence, genetic engineering, and the pursuit of immortality.</description>
+    <image>Books/image8.jpg</image>
+  </book>
+  <book>
+    <title>Educated</title>
+    <author>Tara Westover</author>
+    <genre>Non-Fiction</genre>
+    <price>13.99</price>
+    <description>A memoir about Tara Westover's upbringing in a strict and abusive family in rural Idaho and her journey to education despite being isolated from society.</description>
+    <image>Books/image9.jpg</image>
+  </book>
+  <book>
+    <title>The Immortal Life of Henrietta Lacks</title>
+    <author>Rebecca Skloot</author>
+    <genre>Non-Fiction</genre>
+    <price>12.99</price>
+    <description>This biography tells the story of Henrietta Lacks, whose cells were taken without her consent and became one of the most important tools in medicine.</description>
+    <image>Books/image10.jpg</image>
+  </book>
+  <book>
+    <title>Outliers: The Story of Success</title>
+    <author>Malcolm Gladwell</author>
+    <genre>Non-Fiction</genre>
+    <price>11.99</price>
+    <description>Gladwell examines the factors that contribute to high levels of success, challenging traditional views about talent and hard work.</description>
+    <image>Books/image11.jpg</image>
+  </book>
+  <book>
+    <title>The Tipping Point: How Little Things Can Make a Big Difference</title>
+    <author>Malcolm Gladwell</author>
+    <genre>Non-Fiction</genre>
+    <price>11.99</price>
+    <description>In this book, Gladwell explores the moment when an idea or trend reaches the point of critical mass and spreads like wildfire.</description>
+    <image>Books/image12.jpg</image>
+  </book>
+  <book>
+    <title>Harry Potter and the Sorcerer’s Stone</title>
+    <author>J.K. Rowling</author>
+    <genre>Children's Books</genre>
+    <price>8.99</price>
+    <description>Harry Potter discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry, where he faces challenges and uncovers a dark secret.</description>
+    <image>Books/image13.jpg</image>
+  </book>
+  <book>
+    <title>The Very Hungry Caterpillar</title>
+    <author>Eric Carle</author>
+    <genre>Children's Books</genre>
+    <price>5.99</price>
+    <description>A beloved classic, this picture book tells the story of a caterpillar's transformation into a butterfly, featuring colorful illustrations and rhythmic text.</description>
+    <image>Books/image14.jpg</image>
+  </book>
+  <book>
+    <title>Wonder</title>
+    <author>R.J. Palacio</author>
+    <genre>Children's Books</genre>
+    <price>8.99</price>
+    <description>Auggie Pullman, born with a facial deformity, navigates the challenges of starting middle school and teaches others about kindness and acceptance.</description>
+    <image>Books/image15.jpg</image>
+  </book>
+  <book>
+    <title>A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <genre>Educational</genre>
+    <price>14.99</price>
+    <description>Hawking explores the mysteries of the universe, including the big bang, black holes, and time travel, in a highly accessible way.</description>
+    <image>Books/image16.jpg</image>
+  </book>
+  <book>
+    <title>The Universe in a Nutshell</title>
+    <author>Stephen Hawking</author>
+    <genre>Educational</genre>
+    <price>16.99</price>
+    <description>A follow-up to 'A Brief History of Time,' this book explores complex topics in cosmology and theoretical physics in a more visual and user-friendly manner.</description>
+    <image>Books/image17.jpg</image>
+  </book>
+  <book>
+    <title>Black Holes and Baby Universes and Other Essays</title>
+    <author>Stephen Hawking</author>
+    <genre>Educational</genre>
+    <price>14.99</price>
+    <description>A collection of essays covering topics ranging from black holes to the origins of the universe, showcasing Hawking's remarkable insight into cosmology.</description>
+    <image>Books/image18.jpg</image>
+  </book>
+</books>
